@@ -8,7 +8,7 @@
 
 ## About Bankist
 
-<a href="https://bankist-bank.vercel.app/">Bankist</a> is a fictional and minimalistic online banking application.
+<a href="bankist-webapp02.netlify.app/">Bankist</a> is a fictional and minimalistic online banking application.
 
 Everything you need in a modern bank and more.
 · 100% digital bank
