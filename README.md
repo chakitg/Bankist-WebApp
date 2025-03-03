@@ -2,9 +2,9 @@
 
 ## Preview Images
 
-<img src="/public/img/project-preview.webp" ></img>
-<img src="/public/img/project-preview-2.webp" ></img>
-<img src="/public/img/project-preview-3.webp" ></img>
+<img src="/img/project-preview.webp" ></img>
+<img src="/img/project-preview-2.webp" ></img>
+<img src="/img/project-preview-3.webp" ></img>
 
 ## About Bankist
 
