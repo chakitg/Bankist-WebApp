@@ -1,12 +1,12 @@
 # Bankist
 
-##Preview Images
+## Preview Images
 
 <img src="/public/img/project-preview.webp" ></img>
 <img src="/public/img/project-preview-2.webp" ></img>
 <img src="/public/img/project-preview-3.webp" ></img>
 
-##About Bankist
+## About Bankist
 
 <a href="https://bankist-bank.vercel.app/">Bankist</a> is a fictional and minimalistic online banking application.
 
